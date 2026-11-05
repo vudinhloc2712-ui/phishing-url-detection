@@ -1,0 +1,12 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Joblib artifacts
+*.joblib
+cache_pages/

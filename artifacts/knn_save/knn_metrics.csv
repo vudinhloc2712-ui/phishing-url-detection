@@ -1,0 +1,2 @@
+model,accuracy,f1,roc_auc,best_cv_f1,best_n_neighbors,best_weights,best_metric
+knn,0.9562554680664916,0.9562937062937062,0.9809778261531832,0.9566300102960712,5,distance,manhattan
